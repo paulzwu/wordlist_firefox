@@ -5,12 +5,12 @@
   },
 
   "extensionDescription": {
-    "message": "Search the highlighted word with elookinto.",
+    "message": "Add highlighted word to wordlist ",
     "description": "Description of the add-on."
   },
 
   "menuItemElookinto": {
-    "message": "Search the highlighted word with elookinto",
+    "message": "Add highlighted word to wordlist",
     "description": "Title of context menu item that logs the selected text when clicked."
   }
 

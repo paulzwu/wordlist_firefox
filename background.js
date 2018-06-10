@@ -40,7 +40,7 @@ browser.menus.create({
 browser.menus.onClicked.addListener((info, tab) => {
     switch (info.menuItemId) {
         case "elookinto":
-            console.log(info.selectionText);
+            //console.log(info.selectionText);
             browser.tabs.create({
                 "url": "https://wordlists.azurewebsites.net/?listName=Recent&word=" + info.selectionText
             });

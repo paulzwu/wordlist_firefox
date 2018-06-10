@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "elookinto",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Search the highlighted word with elookinto.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemElookinto": {
+    "message": "Search the highlighted word with elookinto",
+    "description": "Title of context menu item that logs the selected text when clicked."
+  }
+
+}
